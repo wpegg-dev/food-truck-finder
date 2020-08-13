@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Bill Pegg Developer",
+      "unitTestsEnabled": true,
+      "useAzureAppInsights": true
+    },
+    "libraryName": "foodtruckbot",
+    "generator-version": "2.15.0"
+  }
+}
